@@ -1,6 +1,6 @@
 # Wallet Free Bootstrap Finance Template
 
-![wallet](https://demo.themefisher.com/thumbnails/wallet.png)
+![wallet](https://assets.teamosis.com/thumbs/wallet.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/wallet/)
 
